@@ -1,3 +1,8 @@
+/*
+C
+B C
+A B C
+*/
 #include<iostream>
 using namespace std;
 int main() {

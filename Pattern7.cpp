@@ -1,3 +1,8 @@
+/*
+  *
+ ***
+*****
+*/
 #include<iostream>
 using namespace std;
 class P7{
