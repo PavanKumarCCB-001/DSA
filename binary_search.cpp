@@ -17,6 +17,6 @@ int main()
     cout<<"Enter Target: ";
     int t;
     cin>>t;
-    cout<<"Element Found: "<<binary_search(v.begin(),v.end(),t);
+    cout<<"Element Found: "<<binary_search(v.begin(),v.end(),t); // Binary Search function returns Boolean value 1 indicates that the Element is present & 0 for element not there.
     return 0;
 }
