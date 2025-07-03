@@ -13,7 +13,7 @@ int main() {
         cin>>ele;
         A.push_back(ele); }
 
-    auto l = A.at(0);   // considering the first element of the Vector as the Largest initially
+    int l = A.at(0);   // considering the first element of the Vector as the Largest initially
     for(int i=0;i<n;i++) {
         if(A.at(i) > l) l = A.at(i); }
 
